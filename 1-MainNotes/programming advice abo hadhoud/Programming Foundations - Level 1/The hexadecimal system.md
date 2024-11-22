@@ -58,10 +58,35 @@ Converting hexadecimal to decimal is simpler. You start from the rightmost digit
 
 ---
 
-### **Hex to Binary Conversion**
+### **Hexadecimal to Binary Conversion**
 
-- To convert hexadecimal to binary, simply:
-    1. Convert hexadecimal to decimal.
-    2. Then convert the resulting decimal to binary.
+There are two ways to convert hexadecimal to binary:
+
+#### **Method 1: Via Decimal**
+
+1. Convert the hexadecimal value to decimal.
+2. Then, convert the decimal value to binary.
+
+---
+
+#### **Method 2: Direct Conversion Using Nibbles**
+
+- Hexadecimal digits can be directly converted to binary by treating each digit as a **4-bit nibble**:
+    1. Split the hexadecimal number into individual digits.
+    2. Convert each hex digit into its **4-bit binary equivalent**.
+    3. Combine the binary nibbles to get the final binary result.
+
+**Example: Convert `AE` to Binary**
+
+1. Split `AE` into its hex digits:
+    - `A` = **10** in decimal
+    - `E` = **14** in decimal
+2. Convert each to a 4-bit binary nibble:
+    - `A` = **1010**
+    - `E` = **1110**
+3. Combine the binary nibbles:
+    - Result = **1010 1110**
+
+This method is quicker and avoids intermediate decimal conversion!
 
 ---
