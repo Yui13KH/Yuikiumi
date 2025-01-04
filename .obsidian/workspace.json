@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-MainNotes/programming advice abo hadhoud/06 - Introduction to Programming Using C++ Level 2/temp.md",
+                "file": "1-MainNotes/programming advice abo hadhoud/06 - Introduction to Programming Using C++ Level 2/Debugging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "temp"
+              "title": "Debugging"
+            }
+          },
+          {
+            "id": "08bc6c97604e4b6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-MainNotes/programming advice abo hadhoud/06 - Introduction to Programming Using C++ Level 2/Debugging.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Debugging"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,11 +177,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7768b7ecd30f01c2",
+  "active": "08bc6c97604e4b6c",
   "lastOpenFiles": [
+    "1-MainNotes/programming advice abo hadhoud/06 - Introduction to Programming Using C++ Level 2/Watch Windows.md",
+    "1-MainNotes/programming advice abo hadhoud/06 - Introduction to Programming Using C++ Level 2/Breakpoint & Memory Values.md",
+    "1-MainNotes/programming advice abo hadhoud/06 - Introduction to Programming Using C++ Level 2/Debugging.md",
+    "1-MainNotes/programming advice abo hadhoud/06 - Introduction to Programming Using C++ Level 2/Autos.md",
     "1-MainNotes/programming advice abo hadhoud/Programming Foundations - Level 1/Programming Languages.md",
     "1-MainNotes/programming advice abo hadhoud/Programming Foundations - Level 1/Networks.md",
-    "1-MainNotes/programming advice abo hadhoud/06 - Introduction to Programming Using C++ Level 2/temp.md",
     "1-MainNotes/programming advice abo hadhoud/06 - Introduction to Programming Using C++ Level 2",
     "1-MainNotes/programming advice abo hadhoud/Programming Foundations - Level 1/Binary system and data representation in computer.md",
     "1-MainNotes/programming advice abo hadhoud/Programming Foundations - Level 1/Speeds and units of measurement in the computer.md",
@@ -201,10 +219,7 @@
     "1-MainNotes/programming advice abo hadhoud/Algo & Problem-Solving L2/Problem 1.md",
     "1-MainNotes/programming advice abo hadhoud/Algo & Problem-Solving L2/problem 1 arabic.pdf",
     "templates/Title.md",
-    "templates/transcribtion.md",
-    "1-MainNotes/programming advice abo hadhoud/Algo & Problem-Solving L2/Problem  1.md",
     "templates",
-    "1-MainNotes/programming advice abo hadhoud/A guide to learning programming the right way.md",
     "1-MainNotes/programming advice abo hadhoud/03 - Introduction to Programming Using C++ Level 1",
     "3-Sources",
     "1-MainNotes/programming advice abo hadhoud/Programming Foundations - Level 1",
