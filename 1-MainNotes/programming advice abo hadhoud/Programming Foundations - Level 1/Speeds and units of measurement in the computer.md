@@ -1,5 +1,5 @@
 
-tags : [[abo-hadhoud]] [[computer-science]] [[programming-foundations]] 
+tags : [[abu-hadhoud]] [[computer-science]] [[programming-foundations]] 
 
 ### CPU Speed, Cycles, and Hertz
 
@@ -16,8 +16,9 @@ tags : [[abo-hadhoud]] [[computer-science]] [[programming-foundations]]
     - **32-bit Processors**:
         
         - Can handle only **4GB of RAM**.
-        - This is due to addressing limitations, where the maximum addressable memory is 2^32 bytes (around 4GB).
+        - This is due to addressing limjitations, where the maximum addressable memory is 2^32 bytes (around 4GB).
     - **64-bit Processors**:
         
         - Can handle much more memory, theoretically supporting up to **16 exabytes of RAM** (though practical limits are much lower depending on the system and motherboard).
         - The increased bit-width allows the processor to address significantly more memory, which is particularly useful for applications requiring large memory resources.
+

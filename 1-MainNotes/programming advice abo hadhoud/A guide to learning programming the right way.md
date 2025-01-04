@@ -1,5 +1,5 @@
 
-### Tags [[programming]] [[abo-hadhoud]] 
+### Tags [[programming]] [[abu-hadhoud]] 
 
 
 ### 1. **Eliminate Negative Influences**
