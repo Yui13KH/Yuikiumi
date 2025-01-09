@@ -1,4 +1,4 @@
-
+tags : [[abu-hadhoud]] [[cpp]] [[advanced]]
 # Vectors in C++
 
 In physics, vectors are often used to represent quantities that have both magnitude and direction (such as forces). In C++, vectors can be treated as dynamic arrays that can grow or shrink in size. Below is a breakdown of how to use vectors effectively in C++.

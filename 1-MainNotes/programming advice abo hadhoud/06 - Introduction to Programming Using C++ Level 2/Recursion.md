@@ -1,3 +1,4 @@
+tags : [[abu-hadhoud]] [[cpp]] [[advanced]] [[algorithms]]
 # Recursive Functions in C++
 
 A **recursive function** is a function that calls itself, either directly or indirectly, to solve a problem by breaking it down into smaller subproblems. Recursion is useful for problems that have a naturally repetitive or self-similar structure, such as factorials, Fibonacci sequences, and traversing trees.

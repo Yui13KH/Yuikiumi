@@ -1,3 +1,5 @@
+tags : [[abu-hadhoud]] [[cpp]] [[advanced]]]]
+
 # Declaration vs Definition in C++
 
 ## Definition

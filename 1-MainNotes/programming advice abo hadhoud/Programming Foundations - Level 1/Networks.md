@@ -1,4 +1,4 @@
-tags : [[abu-hadhoud]] , [[programming-foundations]] [[computer-science]]
+tags : [[abu-hadhoud]] , [[foundations]]  [[data-representation]]
 
 ### **Network Basics**
 

@@ -1,5 +1,5 @@
 
-Tags : [[programming]] [[abu-hadhoud]] [[programming-foundations]]
+Tags : [[foundations]]  [[data-representation]] [[abu-hadhoud]]
 
 1. **Data**  
    - **Definition**: Raw, unprocessed facts and figures.  

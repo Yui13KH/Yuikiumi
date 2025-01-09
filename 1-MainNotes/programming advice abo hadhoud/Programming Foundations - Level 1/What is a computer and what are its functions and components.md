@@ -1,5 +1,5 @@
 
-## tags [[programming]] [[abu-hadhoud]] [[programming-foundations]] [[computer-science]]
+## tags [[foundations]]  [[data-representation]] [[abu-hadhoud]]
 
 A computer is an electronic device that:
 1. **Takes inputs**: Accepts data through input devices. 

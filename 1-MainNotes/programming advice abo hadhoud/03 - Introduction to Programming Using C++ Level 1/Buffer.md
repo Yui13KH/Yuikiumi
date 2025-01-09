@@ -1,4 +1,4 @@
-tags :[[computer-science]] [[programming-foundations]] [[abu-hadhoud]]
+tags :[[abu-hadhoud]] [[cpp]] [[foundations]] [[memory-management]]
 
 In computer science, **a buffer is temporary storage we use when one component feeds data to the other, but their speeds aren’t the same.**
 

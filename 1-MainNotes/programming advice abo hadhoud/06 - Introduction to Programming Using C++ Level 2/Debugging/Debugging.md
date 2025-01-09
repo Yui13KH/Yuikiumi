@@ -1,3 +1,4 @@
+[[2-Tags/debugging]] [[abu-hadhoud]]
 ## Debugging: What Is It and Why Do We Need It?
 
 Debugging is the process of identifying and fixing errors in your program. There are three main types of errors:

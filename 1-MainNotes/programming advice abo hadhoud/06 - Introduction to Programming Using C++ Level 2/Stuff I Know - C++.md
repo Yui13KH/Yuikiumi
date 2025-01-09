@@ -1,3 +1,5 @@
+
+tags : [[abu-hadhoud]] [[cpp]] [[advanced]]
 # Ternary Operator
 
 The **ternary operator** is a shorthand for `if-else` that evaluates a condition and returns one of two values.

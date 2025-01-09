@@ -1,6 +1,6 @@
 Here’s a concise explanation of integer formatting with `printf` in C++:
 
-
+tags : [[abu-hadhoud]] [[cpp]] [[advanced]]
 ## Integer Format in `printf`
 
 ### Basics:

@@ -1,5 +1,5 @@
 
-tags : [[computer-science]] [[abu-hadhoud]]
+tags : [[foundations]]  [[data-representation]] [[abu-hadhoud]] [[binary-system]]
 
 At its core, a computer is just billions of transistors acting as binary switches:
 

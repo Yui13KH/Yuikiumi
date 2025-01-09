@@ -1,3 +1,4 @@
+[[2-Tags/debugging]] [[abu-hadhoud]] 
 ### **Watch Window**
 
 - **Definition**: A debugging tool that allows you to monitor the values of variables or expressions during program execution.

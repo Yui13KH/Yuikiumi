@@ -1,5 +1,5 @@
 
-tags : [[abu-hadhoud]] [[programming-foundations]]
+tags : [[abu-hadhoud]] [[foundations]]  [[data-representation]] [[programming-basics]]
 
 ### **What is a Programming Language?**
 

@@ -1,5 +1,5 @@
 
-tags : [[abu-hadhoud]] [[computer-science]] [[programming-foundations]]
+tags : [[abu-hadhoud]] [[foundations]]  [[data-representation]]
 
 - **A byte** consists of **8 bits**.
 - Bits are labeled based on their significance:

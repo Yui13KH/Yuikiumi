@@ -1,5 +1,5 @@
 
-tags : [[abu-hadhoud]] [[computer-science]] [[programming-foundations]] 
+tags : [[abu-hadhoud]] [[foundations]]  [[data-representation]]
 
 ### CPU Speed, Cycles, and Hertz
 
